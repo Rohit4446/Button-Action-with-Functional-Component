@@ -13,7 +13,7 @@ function App() {
 
            <button id="click" onClick={showText}>Click me</button>
            {show === true &&  
-           (<p idp="para">Hello, I've learnt to use the full-stack evaluation tool. This makes me so happy</p>)
+           (<p id="para">Hello, I've learnt to use the full-stack evaluation tool. This makes me so happy</p>)
            }
         
          </div>
